@@ -1,4 +1,4 @@
-# Servo_Control_Ultrasound_Distance
+# Servo control using Ultrasound distance sensor
 
 **Control of a servo motor with an ultrasonic sensor**
 
