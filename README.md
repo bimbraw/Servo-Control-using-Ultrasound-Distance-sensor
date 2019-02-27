@@ -19,7 +19,7 @@ Here's the diagram of connections I made -
 
 ![alt text](https://3.bp.blogspot.com/-G2Q8WLzieqI/WAnX6bt7ktI/AAAAAAAACQs/TOC1sI8fSOch6PxT1rjIybZukhViZ94UQCLcB/s1600/proteus.png)
 
-Here's the project video - 
+Here's the project video (click on the sensor)- 
 
 [![Watch the video](https://1.bp.blogspot.com/-PZL--BoaoBI/WAnW7IrID3I/AAAAAAAACQc/vi27-ZmrDQopM7PDbCwrUeEN4PvFheiDwCLcB/s1600/hc-sr04.jpg)](
 https://www.youtube.com/watch?v=dFT02c-rnGk
