@@ -17,4 +17,8 @@ More explanation can be found here - https://keshavroboticmusicianship.blogspot.
 
 I am no longer updating the Robotic musicianship blog but it has some pretty cool stuff.
 
-Here's the project video - https://www.youtube.com/watch?v=dFT02c-rnGk
+Here's the project video - 
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](
+https://www.youtube.com/watch?v=dFT02c-rnGk
+)
