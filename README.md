@@ -15,7 +15,7 @@ This is a project which aims at development of an interactive interface in which
 
 More explanation can be found here - https://keshavroboticmusicianship.blogspot.com/2016/10/control-of-servo-motor-with-ultrasonic_91.html
 
-Here's the diagram of connections I made -
+Here's the diagram of connections I made (diagram made using Proteus)-
 
 ![alt text](https://3.bp.blogspot.com/-G2Q8WLzieqI/WAnX6bt7ktI/AAAAAAAACQs/TOC1sI8fSOch6PxT1rjIybZukhViZ94UQCLcB/s1600/proteus.png)
 
