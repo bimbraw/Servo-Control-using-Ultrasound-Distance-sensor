@@ -19,6 +19,6 @@ I am no longer updating the Robotic musicianship blog but it has some pretty coo
 
 Here's the project video - 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](
+[![Watch the video](https://3.bp.blogspot.com/-G2Q8WLzieqI/WAnX6bt7ktI/AAAAAAAACQs/TOC1sI8fSOch6PxT1rjIybZukhViZ94UQCLcB/s1600/proteus.png)](
 https://www.youtube.com/watch?v=dFT02c-rnGk
 )
