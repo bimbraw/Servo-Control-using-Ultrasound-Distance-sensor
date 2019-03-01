@@ -25,4 +25,4 @@ Here's the project video (click on the sensor)-
 https://www.youtube.com/watch?v=dFT02c-rnGk
 )
 
-P. S. I am no longer updating the Robotic musicianship blog but it has some pretty cool stuff.
+P. S. I am no longer updating the Robotic musicianship blog but it has some pretty cool stuff. Arduno code in the repo.
