@@ -1,6 +1,6 @@
 # Servo control using Ultrasound distance sensor
 
-**Control of a servo motor with an ultrasonic sensor**
+**Control of a servo motor with an ultrasound distance sensor**
 
 This is a project which aims at development of an interactive interface in which the movement of a hand (or another obstacle) can control a servo motor. The project can be extended to execute projects in robotic control and newer interfaces for musical expressions.
 
@@ -25,4 +25,4 @@ Here's the project video (click on the sensor)-
 https://www.youtube.com/watch?v=dFT02c-rnGk
 )
 
-P. S. I am no longer updating the Robotic musicianship blog but it has some pretty cool stuff. Arduno code in the repo.
+P. S. I am no longer updating the Robotic musicianship blog but it has some pretty cool stuff. Arduino code in the repo.
